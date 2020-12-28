@@ -1,0 +1,11 @@
+<?php
+return[
+  'lookup_list'=>[
+    'department'=>'Department',
+    'designation'=>'Designation',
+    'specialization'=>'Specialization',
+    'language'=>'Language',
+    'medicineroute'=>'MedicineRoute',
+    'consentfor'=>'ConsentFor',
+  ]
+];
